@@ -9,10 +9,13 @@
 ![Screenshot 2025-02-18 160326](https://github.com/user-attachments/assets/5ee0bfbe-95d2-4228-bd4f-6d7c80361024)
 
 – **Direct to file** 
-- cd main 
-& 
+- cd main
+  
+and 
+
 — **Dependencies Install**
 - npm install
+  
 ![Screenshot 2025-02-18 160332](https://github.com/user-attachments/assets/9bdb4d2b-301f-463f-bc21-6ba2eba03153)
 
 – **Add SASS**
