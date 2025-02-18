@@ -17,13 +17,13 @@ npm install sass – Add SASS
 npm install @reduxjs/toolkit react-redux – Redux Toolkit and Redux Query
 ![Screenshot 2025-02-18 160554](https://github.com/user-attachments/assets/4a83e640-642b-40b4-aff8-822d6b6702a3)
 
-npm install react-router-dom – Install React Router 
+npm install axios – API Fetching
 ![Screenshot 2025-02-18 160611](https://github.com/user-attachments/assets/569c1b29-8440-44f1-9258-5ee4fe36569e)
 
-npm install axios – API Fetching
+npm run dev – to start server
 ![Screenshot 2025-02-18 160624](https://github.com/user-attachments/assets/1e0f97b0-2419-409b-a074-b54fc0a48033)
 
-npm run dev – to start server
+
 ![Screenshot 2025-02-18 162328](https://github.com/user-attachments/assets/84ab60f7-71ac-438f-aec7-2d3c70fbf491)
 
 If “npx tailwindcss init -p” creates problem - then try : 
