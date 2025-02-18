@@ -50,4 +50,26 @@ and
   
 ![image](https://github.com/user-attachments/assets/e7eee133-7513-42ef-984e-4cbea2d2de3c)
 
+At last!! Clear index.css and Add inside index.css : 
 
+/* ✅ Add Tailwind directives at the top */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+and paste this in tailwind.config.js: 
+
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}" // ✅ 
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+
+ 
