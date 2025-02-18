@@ -47,6 +47,7 @@ and
 
 -** and then** : 
 - npx tailwindcss init -p
+  
 ![image](https://github.com/user-attachments/assets/e7eee133-7513-42ef-984e-4cbea2d2de3c)
 
 
