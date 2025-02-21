@@ -55,7 +55,9 @@ At last!! Clear index.css and Add inside index.css :
 ** ✅ Add Tailwind directives at the top **
 
 @tailwind base;
+
 @tailwind components;
+
 @tailwind utilities;
 
 
