@@ -52,15 +52,17 @@ and
 
 At last!! Clear index.css and Add inside index.css : 
 
-/* ✅ Add Tailwind directives at the top */
+** ✅ Add Tailwind directives at the top **
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 
-and paste this in tailwind.config.js: 
 
-/** @type {import('tailwindcss').Config} */
+and paste this in tailwind.config.js: 
+**
+@type {import('tailwindcss').Config}
 export default {
   content: [
     "./index.html",
@@ -70,6 +72,6 @@ export default {
     extend: {},
   },
   plugins: [],
-};
+};  **
 
  
